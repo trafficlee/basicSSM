@@ -4,7 +4,8 @@ import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import com.soecode.lyf.BaseTest;
-import com.soecode.lyf.entity.Appointment;
+import com.soecode.traffic.dao.AppointmentDao;
+import com.soecode.traffic.entity.Appointment;
 
 public class AppointmentDaoTest extends BaseTest {
 

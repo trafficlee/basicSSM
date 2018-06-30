@@ -6,7 +6,8 @@ import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import com.soecode.lyf.BaseTest;
-import com.soecode.lyf.entity.Book;
+import com.soecode.traffic.dao.BookDao;
+import com.soecode.traffic.entity.Book;
 
 public class BookDaoTest extends BaseTest {
 
